@@ -5,7 +5,7 @@ Using the PyCuda environment write a CUDA program for (matrix) matrix multiplica
 
 
 gemm (transa, transb, m, n, k, alpha, A, B):
-     alpha * (opA (A) X opB (B))
+    <p> alpha * (opA (A) X opB (B))</p>
 
 where:
 
